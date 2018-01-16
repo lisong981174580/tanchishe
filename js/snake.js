@@ -1,4 +1,5 @@
 window.onload=function () {
+	
 //初始化  分数num 速度speed  暂停继续开关flag	
     var num=0;
     var speed=200;

@@ -1,16 +1,21 @@
+html,body{
+	height: 100%;
+	overflow: hidden;
+	
+}
 #sence{
 	width: 600px;
 	height: 600px;
 	background: url("../img/gezi2.png") no-repeat center center;
 	background-size: cover;
 	border: 1px solid black;
-	position: relative;
-    margin: 0 auto;
-    margin-top: 80px;
+	position: fixed;
+    left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
 
-
-
-    
 }
 
 .gezi{
